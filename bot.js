@@ -2,7 +2,7 @@ const SteamUser = require('steam-user')
 let client = new SteamUser()
 
 const logOnOptions = {
-    accountName: process.env.hesapadı
+    accountName: process.env.hesapadı,
     password: process.env.şifre
 }
 
