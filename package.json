@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "os": "^0.1.1",
+    "pc": "0.0.6",
+    "request": "^2.88.0",
+    "speedtest-net": "^1.4.3",
+    "steam-totp": "^2.1.0",
+    "steam-user": "^3.28.2"
+  }
+}
