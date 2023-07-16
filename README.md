@@ -1,2 +1,2 @@
 # Steam-Oyun-Saati-Kasma
-Github'la Alakalı Değildir. copyright +Plusservıce 2018
+Kodu istediğiniz gibi kullanmakta ve üzerine yazarak yayınlamakta özgürsünüz.
